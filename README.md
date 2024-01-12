@@ -1,4 +1,4 @@
-![Screenshot 2024-01-12 102818](https://github.com/quyenquyen21/proshop/assets/104281254/6cc2e4c1-ee14-4156-a57e-d31e5ab20cf0)
+![Screenshot 2024-01-12 102818](https://github.com/quyenquyen21/proshop/assets/104281254/6cc2e4c1-ee14-4156-a57e-d31e5ab20cf0) <br>
 eCommerce platform built with the MERN stack & Redux. Preview at: https://proshop-e8cz.onrender.com/
 <img width="990" alt="screens" src="https://github.com/quyenquyen21/proshop/assets/104281254/126aeec0-8f38-4f23-8964-02b8f2a5f07c">
 
