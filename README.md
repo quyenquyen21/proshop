@@ -1,22 +1,25 @@
 ![Screenshot 2024-01-12 102818](https://github.com/quyenquyen21/proshop/assets/104281254/6cc2e4c1-ee14-4156-a57e-d31e5ab20cf0) <br>
-eCommerce platform built with the MERN stack & Redux. Preview at: https://proshop-e8cz.onrender.com/
+## Overview
+ProShop is a comprehensive e-commerce platform designed with the MERN stack & Redux to offer an exceptional online shopping experience for both customers and administrators. This platform is built with a focus on user-friendliness, efficiency, and versatility in managing and purchasing products. With a range of features from a full-featured shopping cart to PayPal/credit card integration, ProShop streamlines the online retail process. Preview at: https://proshop-e8cz.onrender.com/
 <img width="990" alt="screens" src="https://github.com/quyenquyen21/proshop/assets/104281254/126aeec0-8f38-4f23-8964-02b8f2a5f07c">
 
 ## Features
 
-- Full featured shopping cart
-- Product reviews and ratings
-- Top products carousel
-- Product pagination
-- Product search feature
-- User profile with orders
-- Admin product management
-- Admin user management
-- Admin Order details page
-- Mark orders as delivered option
-- Checkout process (shipping, payment method, etc)
-- PayPal / credit card integration
-- Database seeder (products & users)
+### For Customers:
+- **Engaging Shopping Experience**: Customers can enjoy browsing through top products showcased in a dynamic carousel, making their shopping experience engaging and straightforward.
+- **Advanced Product Interactions**: Customers can review and rate products, providing valuable feedback and insights for other shoppers.
+- **Efficient Product Navigation**: With product pagination and a dedicated search feature, finding the right product is both intuitive and time-saving.
+- **Personalized User Profiles**: Users can create profiles, view their order history, and track current orders, enhancing their shopping experience.
+
+### For Administrators:
+- **Robust Product Management**: Admins can easily manage the product inventory, including adding, editing, and removing items as needed.
+- **User Management System**: Admins have the tools to manage user accounts, ensuring a secure and trustworthy user base.
+- **Order Management**: An admin-specific order details page allows for comprehensive order tracking, including the option to mark orders as delivered.
+- **Payment Processing Integration**: Secure and diverse payment options including PayPal and credit card payments are integrated for smooth transaction processes.
+
+### Technical Aspects:
+- **Checkout Process**: An efficient checkout process includes steps like shipping, payment method selection, etc., making online purchasing seamless.
+- **Database Seeder**: For initial setup and testing, the platform includes a database seeder for products and users.
 
 ## Usage
 
